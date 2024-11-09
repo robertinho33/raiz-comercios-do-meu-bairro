@@ -13,7 +13,8 @@ class Home{
     public static function getHome(){
       return View::render('pages/home',[
       'name' =>'comercios do meu bairro',
-      'description' =>'nosso site https://alphaglam.com.br'
+      'description' =>'nosso site https://alphaglam.com.br',
+      'stie' =>'nosso site https://alphaglam.com.br'
 
     ]);
     }
