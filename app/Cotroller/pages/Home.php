@@ -14,7 +14,7 @@ class Home{
       return View::render('pages/home',[
       'name' =>'comercios do meu bairro',
       'description' =>'nosso site https://alphaglam.com.br',
-      'stie' =>'nosso site https://alphaglam.com.br'
+      'stie' =>'https://alphaglam.com.br'
 
     ]);
     }
