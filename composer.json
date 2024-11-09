@@ -1,0 +1,8 @@
+{
+    "name":"comercios-do-meu-bairro/mvc",
+    "autoload":{
+    "psr-4":{
+    "App\\":"app/"
+                 }
+            }
+}
